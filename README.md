@@ -2,9 +2,9 @@
 
 # Visit OWL
 
-This is just a short project which helped me to practice Tailwind CSS. It doesn't have any functionality - so it's a "design-only" project.
+This is a project from the time where I learned to code. It's a "design-only" project.
 
 ### Tech used
 
-* HTML
-* CSS (Tailwind CSS)
+- HTML
+- CSS (Tailwind CSS)
